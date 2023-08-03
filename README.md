@@ -1,6 +1,10 @@
-
-<h1 align="center"> 👋 Hello world! I'm Remah Mar'i</h1>
-<h3 align="center">Passionate developer with a love for coding and problem-solving. Building innovative projects to explore the world of technology.</h3>
+<p align="center">
+  <img width="300" height="200" src="https://cdn.pixabay.com/animation/2023/04/20/06/45/06-45-08-258_512.gif">
+</p>
+<h1 align="center"> Hello world! I'm Remah Mar'i</h1>
+<h3 align="center">Passionate developer with a love for coding and problem-solving. Building innovative projects to explore the world of technology
+👩🏻‍💻
+</h3>
 
 
 <h1></h1>
@@ -10,7 +14,7 @@
   <img width="300" height="200" src="https://media.tenor.com/c3ca_9IHdxIAAAAC/cafe-coffee.gif" alt="coffee">
 </p>
 <h1></h1>
-<p align="center" > <img  width="100" height="50" src="https://komarev.com/ghpvc/?username=remahmari&label=Profile%20views&color=0e75b6&style=flat" alt="remahmari" /> </p>
+
 <h1></h1>
 <h3 align="center">Reach me at:</h3>
 <p align="center">
@@ -23,7 +27,7 @@
 </p>
 <h1></h1>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <h4 align="center">Programming Languages</h4>
 
@@ -39,9 +43,22 @@
 
 
 <h1></h1>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=remahmari&show_icons=true&locale=en&layout=compact" alt="remahmari" /></p>
+<p align="center">
+  <img width="150" height="150" src="https://www.broadheath.coventry.sch.uk/wp-content/uploads/2022/06/135EB2A7-753D-4E30-8039-963E38554536.gif">
+</p>
+<div align="center">
+  <h1 ">⭐️~Pleased To Inform You~⭐️</h1>
+  <p> Very good experience in Blockchain  and decenterlized applications (dapps) programming </p>
+  <p>👩🏻‍💻</p>
+</div>
+<p align="center">
+  <img width="300" height="200" src="https://cdn.dribbble.com/users/900374/screenshots/5342791/blockchain_2.gif">
+</p>
+<h1></h1>
+<p align="center" > <img  width="100" height="50" src="https://komarev.com/ghpvc/?username=remahmari&label=Profile%20views&color=0e75b6&style=flat" alt="remahmari" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remahmari&show_icons=true&locale=en&layout=compact" alt="remahmari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remahmari&show_icons=true&locale=en" alt="remahmari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=remahmari&" alt="remahmari" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=remahmari&" alt="remahmari" /></p>
+
